@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.d29cbcf0.css",
-    "main.js": "/static/js/main.8f69a115.js",
-    "static/media/image-product-desktop.jpg": "/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
-    "static/media/image-product-mobile.jpg": "/static/media/image-product-mobile.113818bc746dc8e64ffb.jpg",
-    "index.html": "/index.html",
-    "static/media/icon-cart.svg": "/static/media/icon-cart.9606ad84b7565a3f523f9429396f8066.svg",
-    "main.d29cbcf0.css.map": "/static/css/main.d29cbcf0.css.map",
-    "main.8f69a115.js.map": "/static/js/main.8f69a115.js.map"
+    "main.css": "/FrontEndMentor-CardComponent/static/css/main.09480703.css",
+    "main.js": "/FrontEndMentor-CardComponent/static/js/main.98094990.js",
+    "static/media/image-product-desktop.jpg": "/FrontEndMentor-CardComponent/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
+    "static/media/image-product-mobile.jpg": "/FrontEndMentor-CardComponent/static/media/image-product-mobile.113818bc746dc8e64ffb.jpg",
+    "index.html": "/FrontEndMentor-CardComponent/index.html",
+    "static/media/icon-cart.svg": "/FrontEndMentor-CardComponent/static/media/icon-cart.9606ad84b7565a3f523f9429396f8066.svg",
+    "main.09480703.css.map": "/FrontEndMentor-CardComponent/static/css/main.09480703.css.map",
+    "main.98094990.js.map": "/FrontEndMentor-CardComponent/static/js/main.98094990.js.map"
   },
   "entrypoints": [
-    "static/css/main.d29cbcf0.css",
-    "static/js/main.8f69a115.js"
+    "static/css/main.09480703.css",
+    "static/js/main.98094990.js"
   ]
 }
