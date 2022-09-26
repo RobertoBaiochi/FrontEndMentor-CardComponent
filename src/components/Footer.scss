@@ -1,0 +1,24 @@
+.attribution {
+    display: flex;
+    align-items: flex-end;
+  font-size: 1.1rem;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+
+    a {
+    color: hsl(32, 84%, 55%);
+    text-decoration: none;
+    transition: 0.2s ease-in;
+    
+    &:hover {
+        color: rgb(138, 165, 42);
+    }
+  }
+}
+
+
+
+
+
+
+
