@@ -1,5 +1,5 @@
 import './TextContent.scss'
-import img from '../assets/images/icon-cart.svg'
+import cartButton from '../assets/images/icon-cart.svg'
 
 function TextContent() {
     return ( 
@@ -15,7 +15,7 @@ function TextContent() {
                 <span>$149.99</span>
                 <del>$169.99</del>
             </div>
-            <button><img src={img} alt="" />Add to Cart</button>
+            <button><img src={cartButton} alt="cart shop" />Add to Cart</button>
             
         </section>
      );

@@ -1,18 +1,29 @@
 .imageContent {
     width: 50%;
     height: 100%;
-    background-image: url('../assets/images/image-product-desktop.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    picture {
+        width: 100%;
+        height: 100%;
+    }
+
+    img {
+        width: 100%;
+    }
+
+    
+
 }
+
+
 
 @media(max-width: 678px) {
     .imageContent {
         width: 100%;
-        height: 300px;
-        background-image: url('../assets/images/image-product-mobile.jpg');
-
-        background-position: center;
+        height: 30%;
+        overflow: hidden;
     }
 }
