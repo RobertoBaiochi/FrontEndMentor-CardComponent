@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/FrontEndMentor-CardComponent/static/css/main.09480703.css",
-    "main.js": "/FrontEndMentor-CardComponent/static/js/main.98094990.js",
+    "main.css": "/FrontEndMentor-CardComponent/static/css/main.33f5ab3d.css",
+    "main.js": "/FrontEndMentor-CardComponent/static/js/main.d1ee15b3.js",
     "static/media/image-product-desktop.jpg": "/FrontEndMentor-CardComponent/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
     "static/media/image-product-mobile.jpg": "/FrontEndMentor-CardComponent/static/media/image-product-mobile.113818bc746dc8e64ffb.jpg",
     "index.html": "/FrontEndMentor-CardComponent/index.html",
     "static/media/icon-cart.svg": "/FrontEndMentor-CardComponent/static/media/icon-cart.9606ad84b7565a3f523f9429396f8066.svg",
-    "main.09480703.css.map": "/FrontEndMentor-CardComponent/static/css/main.09480703.css.map",
-    "main.98094990.js.map": "/FrontEndMentor-CardComponent/static/js/main.98094990.js.map"
+    "main.33f5ab3d.css.map": "/FrontEndMentor-CardComponent/static/css/main.33f5ab3d.css.map",
+    "main.d1ee15b3.js.map": "/FrontEndMentor-CardComponent/static/js/main.d1ee15b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.09480703.css",
-    "static/js/main.98094990.js"
+    "static/css/main.33f5ab3d.css",
+    "static/js/main.d1ee15b3.js"
   ]
 }
