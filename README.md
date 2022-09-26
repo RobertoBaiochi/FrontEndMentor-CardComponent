@@ -28,7 +28,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
--Live Url : 
+-Live Url : https://robertobaiochi.github.io/FrontEndMentor-CardComponent/
 
 ## My process
 
